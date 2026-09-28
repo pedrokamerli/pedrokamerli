@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou [Pedro Merli] 👋
 
 Sou estudante de **Ciência de Dados** pela EBAC, em transição e construção de uma base sólida em análise de dados, programação, estatística e machine learning.
 
